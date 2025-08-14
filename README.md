@@ -55,7 +55,7 @@ Me chamo Luiz Felipe Ribeiro Souza, tenho 18 anos e sou natural de Belo Horizont
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfeliperibs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
