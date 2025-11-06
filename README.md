@@ -2,7 +2,16 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Luiz Felipe Ribeiro Souza, tenho 18 anos e sou natural de Belo Horizonte, Minas Gerais. Concluí o ensino médio no Colégio Santa Maria Minas, inclinando o foco para T.I. desde já. Atualmente, estou cursando Engenharia De Software na PUCMG. Entusiasta de tecnologia, compartilho minha jornada através dos projetos que desenvolvo. Tenho afinidade com backend usando Java e C, mas também já criei diversos projetos em JavaScript, HTML e CSS. A parte lógica da programação, o ato de pensar em ideias e resolver problemas, tem me aproximado cada vez mais da área.
+👋 Olá! Eu sou o Luiz Felipe Ribeiro
+
+🎓 Estudante de Engenharia de Software na PUC Minas, apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que fazem a diferença.
+💻 Tenho foco em desenvolvimento back-end, principalmente com Java, Spring Boot e SQL, mas também possuo experiência com JavaScript, HTML e CSS para integração e construção de aplicações completas.
+
+🚀 Atualmente, estou desenvolvendo um sistema de Gerenciamento de Trabalho, com módulos como Gestão de Tarefas, Pontos Digitais, Canal Colaborativo de Ajuda e Administração de Funcionários, utilizando APIs REST e boas práticas de arquitetura.
+
+🧠 Além dos projetos acadêmicos, gosto de explorar novas tecnologias, aprimorar minhas habilidades em Clean Code, versionamento com Git e metodologias ágeis.
+
+🤝 Sou colaborativo, curioso e sempre busco melhorar um pouco a cada commit.
 
 <div align="center">
   <a href="https://discord.com/users/lipefrs" target="_blank">
