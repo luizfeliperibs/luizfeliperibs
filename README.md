@@ -4,60 +4,24 @@
 
 <br/>
 
-<a href="mailto:ribeirosouzaluizfelipe@gmail.com" target="_blank">
+<a href="mailto:ribeirosouzaluizfelipe@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/luizfeliperibs" target="_blank">
+<a href="https://www.linkedin.com/in/luizfeliperibs">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 Currently
-
-```text
-🟢 Software Engineering @ PUC Minas
-   Undergrad · in progress
-
-🔵 Backend Development Intern
-   REST APIs · Java · Spring Boot
-
-🟣 Building full-stack projects
-   Vue.js · Node.js · PostgreSQL
-
-🟠 Studying software architecture
-   Clean Code · SOLID · Design Patterns
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Stack
+| 🟣 Currently | ⚙️ Stack |
+|:---|:---|
+| 🟢 **Software Engineering @ PUC Minas** — Undergrad, in progress | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/> |
+| 🔵 **Backend Development Intern** — REST APIs · Java · Spring Boot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/> |
+| 🟣 **Building full-stack projects** — Vue.js · Node.js · PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/> |
+| 🟠 **Studying software architecture** — Clean Code · SOLID · Design Patterns | |
 
 <br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" title="C"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" title="Vue.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" title="Node.js"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git"/>
-
-<br/>
-
-</td>
-</tr>
-</table>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%"/>
 
