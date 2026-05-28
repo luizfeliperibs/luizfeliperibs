@@ -1,28 +1,52 @@
 <div align="center">
+<h1>&lt;/&gt; { } Luiz Felipe Ribeiro Souza 🗄️</h1>
+<h3 style="color: #9d4edd;">Backend Developer • Software Engineering Student</h3>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:2d1054,100:1a0533&height=90&section=header&text=Luiz%20Felipe%20Ribeiro%20Souza&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=72&descSize=13" width="100%"/>
+<br>
 
-<br/>
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+<tr>
+<td width="55%" valign="top">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=9D4EDD&center=false&vCenter=true&width=435&lines=Transforming+coffee+into+code...;Backend+Developer+%26+Student;Passionate+about+Software+Architecture;Always+learning+new+technologies!" alt="Typing SVG" />
+</a>
+<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="22" align="absmiddle" /> &nbsp;<b>Studying:</b> Software Engineering at PUC Minas
+<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="22" align="absmiddle" /> &nbsp;<b>Working:</b> Backend Development Intern
+<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" align="absmiddle" /> &nbsp;<b>Building:</b> Full-stack & REST API projects
+<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pen.png" alt="Target" width="22" align="absmiddle" /> &nbsp;<b>Focusing on:</b> Software architecture & clean code
+</td>
 
+<td width="45%" align="center" valign="center">
+<br>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=spring" alt="Spring" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=c" alt="C" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 <a href="mailto:ribeirosouzaluizfelipe@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/luizfeliperibs">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/luizfeliperibs">
+<img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+</div>
 
-<br/><br/>
+<br><br>
 
-| 🟣 Currently | ⚙️ Stack |
-|:---|:---|
-| 🟢 **Software Engineering @ PUC Minas** — Undergrad, in progress | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/> |
-| 🔵 **Backend Development Intern** — REST APIs · Java · Spring Boot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/> |
-| 🟣 **Building full-stack projects** — Vue.js · Node.js · PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/> |
-| 🟠 **Studying software architecture** — Clean Code · SOLID · Design Patterns | |
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%"/>
-
+<div align="center">
+<img src="https://images.unsplash.com/photo-1614200187524-dc4b892acf16?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Banner Carro Drift" style="border-radius: 15px;" />
 </div>
