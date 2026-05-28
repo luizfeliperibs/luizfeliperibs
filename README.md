@@ -41,7 +41,6 @@
 <a href="https://linkedin.com/in/luizfeliperibs"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 </div>
-
 <br><br>
 
 <div align="center">
