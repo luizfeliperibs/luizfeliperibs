@@ -48,5 +48,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1614200187524-dc4b892acf16?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Banner Carro Drift" style="border-radius: 15px;" />
+<img src="https://media.tenor.com/6ZhzHHYyNxoAAAAM/luffy.gif" alt="One Piece" style="border-radius: 15px;" />
+  <img src="https://media.tenor.com/ix0QDrdmhpQAAAAM/jojo-yes-yes-yes.gif" alt="One Piece" style="border-radius: 15px;" />
+  <img src="https://media.tenor.com/iHh5RRzbebEAAAAM/anime-gachiakuta.gif" alt="One Piece" style="border-radius: 15px;" />
 </div>
