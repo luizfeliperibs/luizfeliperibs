@@ -34,7 +34,6 @@
 </table>
 
 <br>
-
 <div align="center">
 <div align="center">
 <a href="mailto:ribeirosouzaluizfelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -42,7 +41,6 @@
 <a href="https://linkedin.com/in/luizfeliperibs"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 </div>
-
 <br><br>
 
 <div align="center">
