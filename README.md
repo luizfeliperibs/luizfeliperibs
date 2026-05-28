@@ -14,7 +14,7 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="22" align="absmiddle" /> &nbsp;<b>Studying:</b> Software Engineering at PUC Minas
 <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="22" align="absmiddle" /> &nbsp;<b>Working:</b> Backend Development Intern
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="22" align="absmiddle" /> &nbsp;<b>Working:</b> Full-stack Development Intern
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" align="absmiddle" /> &nbsp;<b>Building:</b> Full-stack & REST API projects
 <br><br>
@@ -25,9 +25,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=java" alt="Java" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=spring" alt="Spring" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=c" alt="C" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />
+<img src="https://skillicons.dev/icons?i=vue" alt="Vue" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=prisma" alt="PrismaDB" />
 <br><br>
 </td>
 </tr>
@@ -36,13 +36,11 @@
 <br>
 
 <div align="center">
-<a href="mailto:ribeirosouzaluizfelipe@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/luizfeliperibs">
-<img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<div align="center">
+<a href="mailto:ribeirosouzaluizfelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/luizfeliperibs"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 </div>
 
 <br><br>
