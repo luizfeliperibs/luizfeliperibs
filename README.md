@@ -1,6 +1,6 @@
 <div align="center">
 <h1>&lt;/&gt; { } Luiz Felipe Ribeiro Souza 🗄️</h1>
-<h3 style="color: #9d4edd;">Backend Developer • Software Engineering Student</h3>
+<h3 style="color: #9d4edd;">Full-stack Developer • Software Engineering Student</h3>
 </div>
 
 <br>
