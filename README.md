@@ -39,8 +39,8 @@
 </div>
 <br><br>
 
-<div align="center">
-<img src="https://media.tenor.com/6ZhzHHYyNxoAAAAM/luffy.gif" alt="One Piece" style="border-radius: 15px;" />
-  <img src="https://media.tenor.com/ix0QDrdmhpQAAAAM/jojo-yes-yes-yes.gif" alt="One Piece" style="border-radius: 15px;" />
-  <img src="https://media.tenor.com/iHh5RRzbebEAAAAM/anime-gachiakuta.gif" alt="One Piece" style="border-radius: 15px;" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=luizfeliperibs&theme=tokyonight&locale=pt_BR" width="400px" alt="GitHub Streak" />
+  </a>
+</p>
