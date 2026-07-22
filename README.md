@@ -35,11 +35,7 @@
 
 <br>
 <div align="center">
-<div align="center">
-<a href="mailto:ribeiro.luizfelipe@outlook.com"><img src="https://img.shields.io/badge/Outlook-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/luizfeliperibs"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+<div align="center"><a href="mailto:ribeiro.luizfelipe@outlook.com"><img src="https://img.shields.io/badge/E--mail-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/luizfelipribs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/lipezfs" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></div>
 </div>
 <br><br>
 
